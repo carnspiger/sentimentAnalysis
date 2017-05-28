@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="org.apache.hadoop:hadoop-mapred:0.22.0" type="repository">
+    <properties maven-id="org.apache.hadoop:hadoop-mapred:0.22.0" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapred/0.22.0/hadoop-mapred-0.22.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
